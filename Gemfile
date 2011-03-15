@@ -6,6 +6,7 @@ gem 'spork', '~> 0.9.0.rc'
 
 group :development do
   gem 'rspec-rails', '2.5.0'
+  gem 'rcov'
 end
 
 group :test do
