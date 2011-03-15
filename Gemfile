@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.4'
-gem 'sqlite3-ruby', '1.3.2', :require => 'sqlite3'
+gem 'sqlite3'
 gem 'spork', '~> 0.9.0.rc'
 
 group :development do
